@@ -1,0 +1,13 @@
+{
+  "name": "cam-control",
+  "version": "1.0.0",
+  "description": "An electron based usb camera controller",
+  "main": "index.js",
+  "repository": "https://github.com/TylerMathis/cam-control",
+  "author": "Tyler Hostler-Mathis",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "electron": "^12.0.5"
+  }
+}
